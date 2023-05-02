@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dilip Rajkumar, currently working as Sr.Data Engineer at nFerence.
-- 👀 I’m interested in Data Engineering, ML and Quantum Computing
+- 👀 I’m interested in Data Engineering and ML
 - 🌱 I’m currently learning OpenAI tools
-- 💞️ I’m looking to collaborate on Quantum Computing - ML projects
 - 📫 You can reach me at dilip.rajkumar@nference.net
 
 <!---
